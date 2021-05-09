@@ -46,7 +46,7 @@ width: 80%;
 	<h1>Get Bank Details by IFSC Code </h1>
 	<br>
 
-	<form method="post" action="index.php" id="theForm">
+	<form method="post" action="Bank.php" id="theForm">
 		<b>Enter IFSC Code </b>
 		<br>
 		<input type="text" name='ifsc'>
